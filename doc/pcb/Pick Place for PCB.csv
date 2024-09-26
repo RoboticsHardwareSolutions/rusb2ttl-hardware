@@ -4,28 +4,28 @@ Altium Designer Pick and Place Locations
 ========================================================================================================================
 File Design Information:
 
-Date:       08/07/24
-Time:       23:06
-Revision:   3265c0317492a00e8ebcd60b9fd7824159521a0d
+Date:       26/09/24
+Time:       16:38
+Revision:   6887eeeb9fd75c6985e1a90fc2dded42df6d9957
 Variant:    No variations
-Units used: mil
+Units used: mm
 
-"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
-"*1","M3","TopLayer","M3","403.543","-68.898","0",""
-"U3","LM1117LD-3.3","TopLayer","DFN400X400X80-9N","839.567","-73.819","0","Linear Voltage Regulator IC 1 Output 800mA 8-WSON _4x4_"
-"X2","TYPE-C-31-M-12","TopLayer","HRO_TYPE-C-31-M-12","161.319","217.598","270","USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS"
-"U2","USBLC6-2SC6","TopLayer","SOT95P280X145-6N","415.811","221.457","180","17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
-"U1","CH340E","TopLayer","MSOP10","700.787","214.567","0","USB to serial chip CH340"
-"R4","1.5k","TopLayer","R_0603","807.087","103.346","0","Resistor"
-"R3","1.5k","TopLayer","R_0603","806.102","391.732","0","Resistor"
-"R2","22","TopLayer","R_0603","966.535","301.181","90","Resistor"
-"R1","22","TopLayer","R_0603","966.535","192.913","270","Resistor"
-"R6","5.1k","TopLayer","R_0603","393.701","318.898","180","Resistor"
-"R5","5.1k","TopLayer","R_0603","393.701","379.921","180","Resistor"
-"D2","RED","TopLayer","LED_0603","924.003","103.346","0","LED"
-"D1","RED","TopLayer","LED_0603","923.019","391.732","0","LED"
-"C2","0.1uF","TopLayer","C_0603","810.039","311.024","180","Capacitor"
-"C1","0.1uF","TopLayer","C_0603","687.992","103.346","0","Capacitor"
-"C4","0.1uF","TopLayer","C_0603","967.520","-69.882","270","Capacitor"
-"C3","0.1uF","TopLayer","C_0603","685.039","-69.882","270","Capacitor"
-"C5","22uF 10V","TopLayer","TANTAL_TYPE_A","1091.535","2.953","180","Tantal Capacitor"
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"*1","M3","TopLayer","M3","10.2500","-1.7500","0",""
+"U3","LM1117LD-3.3","TopLayer","DFN400X400X80-9N","21.3250","-1.8750","0","Linear Voltage Regulator IC 1 Output 800mA 8-WSON _4x4_"
+"X2","TYPE-C-31-M-12","TopLayer","HRO_TYPE-C-31-M-12","4.0975","5.5270","270","USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS"
+"U2","USBLC6-2SC6","TopLayer","SOT95P280X145-6N","10.5616","5.6250","180","17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
+"U1","CH340E","TopLayer","MSOP10","17.8000","5.4500","0","USB to serial chip CH340"
+"R4","1.5k","TopLayer","R_0603","20.5000","2.6250","0","Resistor"
+"R3","1.5k","TopLayer","R_0603","20.4750","9.9500","0","Resistor"
+"R2","22","TopLayer","R_0603","24.5500","7.6500","90","Resistor"
+"R1","22","TopLayer","R_0603","24.5500","4.9000","270","Resistor"
+"R6","5.1k","TopLayer","R_0603","10.0000","8.1000","180","Resistor"
+"R5","5.1k","TopLayer","R_0603","10.0000","9.6500","180","Resistor"
+"D2","RED","TopLayer","LED_0603","23.4697","2.6250","0","LED"
+"D1","RED","TopLayer","LED_0603","23.4447","9.9500","0","LED"
+"C2","0.1uF","TopLayer","C_0603","20.5750","7.9000","180","Capacitor"
+"C1","0.1uF","TopLayer","C_0603","17.4750","2.6250","0","Capacitor"
+"C4","0.1uF","TopLayer","C_0603","24.5750","-1.7750","270","Capacitor"
+"C3","0.1uF","TopLayer","C_0603","17.4000","-1.7750","270","Capacitor"
+"C5","22uF 10V","TopLayer","TANTAL_TYPE_A","27.7250","0.0750","180","Tantal Capacitor"
