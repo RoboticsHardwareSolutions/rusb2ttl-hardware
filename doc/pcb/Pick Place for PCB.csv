@@ -4,9 +4,9 @@ Altium Designer Pick and Place Locations
 ========================================================================================================================
 File Design Information:
 
-Date:       26/09/24
-Time:       16:38
-Revision:   6887eeeb9fd75c6985e1a90fc2dded42df6d9957
+Date:       11/11/24
+Time:       18:57
+Revision:   7dc9348aa091f66537125db35f4e64c98a67856f
 Variant:    No variations
 Units used: mm
 
@@ -16,16 +16,14 @@ Units used: mm
 "X2","TYPE-C-31-M-12","TopLayer","HRO_TYPE-C-31-M-12","4.0975","5.5270","270","USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS"
 "U2","USBLC6-2SC6","TopLayer","SOT95P280X145-6N","10.5616","5.6250","180","17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6"
 "U1","CH340E","TopLayer","MSOP10","17.8000","5.4500","0","USB to serial chip CH340"
-"R4","1.5k","TopLayer","R_0603","20.5000","2.6250","0","Resistor"
-"R3","1.5k","TopLayer","R_0603","20.4750","9.9500","0","Resistor"
+"R3","700","TopLayer","R_0603","20.4750","1.4500","0","Resistor"
 "R2","22","TopLayer","R_0603","24.5500","7.6500","90","Resistor"
 "R1","22","TopLayer","R_0603","24.5500","4.9000","270","Resistor"
 "R6","5.1k","TopLayer","R_0603","10.0000","8.1000","180","Resistor"
 "R5","5.1k","TopLayer","R_0603","10.0000","9.6500","180","Resistor"
-"D2","RED","TopLayer","LED_0603","23.4697","2.6250","0","LED"
-"D1","RED","TopLayer","LED_0603","23.4447","9.9500","0","LED"
+"D1","RED","TopLayer","LED_0603","23.4447","1.4500","180","LED"
 "C2","0.1uF","TopLayer","C_0603","20.5750","7.9000","180","Capacitor"
-"C1","0.1uF","TopLayer","C_0603","17.4750","2.6250","0","Capacitor"
+"C1","0.1uF","TopLayer","C_0603","17.7750","3.1250","0","Capacitor"
 "C4","0.1uF","TopLayer","C_0603","24.5750","-1.7750","270","Capacitor"
 "C3","0.1uF","TopLayer","C_0603","17.4000","-1.7750","270","Capacitor"
 "C5","22uF 10V","TopLayer","TANTAL_TYPE_A","27.7250","0.0750","180","Tantal Capacitor"
