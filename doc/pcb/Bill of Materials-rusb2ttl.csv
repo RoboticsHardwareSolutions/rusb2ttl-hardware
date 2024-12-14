@@ -1,11 +1,13 @@
-"Description","Comment","Designator","Footprint","Part Number","Alternative Part","Quantity"
-"Capacitor","0.1uF","C1, C2, C3, C4","C_0603","CC0603KPX7R9BB104","","4"
-"Tantal Capacitor","22uF 10V","C5","TANTAL_TYPE_A","TECAP22/10VA","","1"
+Description,Comment,Designator,Footprint,Part Number,Alternative Part,Quantity
+
+"Capacitor","0.1uF","C1, C2","C_0603","CC0603KPX7R9BB104","","2"
+"Capacitor","4.7uF","C3","C_0603","CC0603KRX5R6BB475","","1"
+"Capacitor","1uF","C4","C_0603","CC0603ZRY5V7BB105","","1"
 "LED","RED","D1","LED_0603","GNL-0603SRC","","1"
 "Resistor","22","R1, R2","R_0603","RC0603FR-0722RL","","2"
 "Resistor","700","R3","R_0603","RC0603FR-07750RL","","1"
-"Resistor","5.1k","R5, R6","R_0603","RC0603FR-075K1L","","2"
+"Resistor","5.1k","R4, R5","R_0603","RC0603FR-075K1L","","2"
 "USB to serial chip CH340","CH340E","U1","MSOP10","CH340E","","1"
 "17V Clamp 5A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-6","USBLC6-2SC6","U2","SOT95P280X145-6N","USBLC6-2SC6","","1"
-"Linear Voltage Regulator IC 1 Output 800mA 8-WSON _4x4_","LM1117LD-3.3","U3","DFN400X400X80-9N","LM1117LD-3.3","","1"
+"LP38690, LP38692 1-A LDO CMOS Linear Regulators  Stable with Ceramic Output Capacitors","LP38692-3.3V","U3","WSON-6","","","1"
 "USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS","TYPE-C-31-M-12","X2","HRO_TYPE-C-31-M-12","TYPE-C-31-M-12","","1"
